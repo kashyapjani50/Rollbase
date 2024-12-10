@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RollbaseApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(RollbaseApplication.class, args);
 	}
 
